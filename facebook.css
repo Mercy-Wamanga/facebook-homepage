@@ -1,17 +1,17 @@
 body{
-    background-color: #f7f7f7;
+    background-color: #dfe3ee;
 }
 .container{
-    background-color: #f7f7f7;
+    background-color:  #dfe3ee;
     height: 600px;
     width:1500px;
 }
 .content-head-paragraph{
-    background-color: #f7f7f7;
+    background-color:  #dfe3ee;
 }
 
 .content-heading{
-    background-color: #f7f7f7;
+    background-color:  #dfe3ee;
  height: 200px;
 width:300px;
 margin-left: 450px;
@@ -25,7 +25,7 @@ img{
 }
 
 div{
-    background-color: #f7f7f7;
+    background-color:  #dfe3ee;
    
     /* border: 1px solid black; */
 }
@@ -50,6 +50,7 @@ hr{
 }
 input{
     margin:5px;
+    padding:5px;
 }
 
 .btn{
@@ -107,9 +108,27 @@ span{
     background-color: white;
     margin-left: 500px;
     margin-right: 300px;
+    
 }
 
 .content-footer{
     background-color: white;
+    padding:5px;
 }
 
+
+.content-image{
+    width:300px;
+    height:50px;
+    font-size: 45px;
+    font-weight:bolder;
+    color:#3b5998;
+}
+
+input[type="button"]{
+    border: none;
+}
+
+input[type="button"]{
+    border: none;
+}
